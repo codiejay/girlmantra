@@ -13,7 +13,7 @@ export default function Home() {
       <Chakra.Box w='90%' m='0 auto'>
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Roboto+Mono:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap" rel="stylesheet" />
       </Head>
       { 
