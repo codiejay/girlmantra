@@ -64,7 +64,6 @@ const Steps = ({
             
             <Chakra.Box 
             border='2px solid #FDDB2F' 
-            w='fit-content' 
             m='4rem 0' 
             textAlign='left'
             p='0.2rem'
